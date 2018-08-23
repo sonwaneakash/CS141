@@ -18,10 +18,10 @@ cin>>mrk5;
 //calculations
 Total=mrk1+mrk2+mrk3+mrk4+mrk5;
 average=Total/5;
-percentage=average*100;
+percentage=average;
 cout<<"Total="<<Total<<endl;
 cout<<"Average="<<average<<endl;
-cout<<"percentage="<<percentage<<endl;
+cout<<"percentage="<<percentage<<"%"<<endl;
 }
 
 
